@@ -1,0 +1,12 @@
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\bin\Debug\net6.0\EntidadesADO.deps.json
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\bin\Debug\net6.0\EntidadesADO.dll
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\bin\Debug\net6.0\EntidadesADO.pdb
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\EntidadesADO.csproj.AssemblyReference.cache
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\EntidadesADO.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\EntidadesADO.AssemblyInfoInputs.cache
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\EntidadesADO.AssemblyInfo.cs
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\EntidadesADO.csproj.CoreCompileInputs.cache
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\EntidadesADO.dll
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\refint\EntidadesADO.dll
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\EntidadesADO.pdb
+E:\repos c#\ProyectoFinalComision50285\EntidadesADO\obj\Debug\net6.0\ref\EntidadesADO.dll
